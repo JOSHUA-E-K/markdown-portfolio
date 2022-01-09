@@ -1,9 +1,5 @@
-<ol>
- <li>Item 1<li/>
- <li>Item 2<li/>
-  <ul>
-    <li>Item 2a<li/>
-    <li>Tem 2b<li/>
-  </ul>
-  <li>Item3<li/>
-    </ol>
+- Item 1
+- Item 2
+- Item 2a
+- Tem 2b
+- Item3
